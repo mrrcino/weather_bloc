@@ -1,3 +1,11 @@
 # weather_bloc
 
-A new Flutter project.
+A simple Weather App Project for knowing how BLOC works 
+
+List of Packages used in this project
+- BLOC
+- intl
+- Geolocator
+- Weather
+
+API used in this project by openweathermap.org
