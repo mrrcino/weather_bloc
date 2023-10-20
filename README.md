@@ -1,6 +1,6 @@
 # weather_bloc
 
-A simple Weather App Project for knowing how BLOC works 
+A simple Weather App Project using FLutter for knowing how BLOC works 
 
 List of Packages used in this project
 - BLOC
